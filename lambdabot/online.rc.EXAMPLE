@@ -1,0 +1,4 @@
+irc-connect freenode irc.freenode.net 6667 lambdy lambda:bot
+admin + freenode:yournick
+join freenode:##foobarbaz
+join freenode:#mycoolchannel
